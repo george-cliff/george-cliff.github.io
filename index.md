@@ -23,7 +23,7 @@ This is my github page where I document my journey of programming, I am currentl
 
 ## Quick Links
 
-- <i class="fab fa-github"></i> &nbsp; [GitHub](https://github.com/george-cliff)
-- <i class="fas fa-book"></i> &nbsp; [Blog](./blog/)
-- <i class="fas fa-diagram-project"></i> &nbsp; [Projects](./projects/)
+- <i class="fa-brands fa-github-alt"></i> &nbsp; [GitHub](https://github.com/george-cliff)
+- <i class="fa-solid fa-book"></i> &nbsp; [Blog](./blog/)
+- <i class="fa-solid fa-laptop-code"></i> &nbsp; [Projects](./projects/)
 
