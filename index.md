@@ -21,9 +21,10 @@ layout: home
 
 This is my github page where I document my journey of programming, I am currently a Computer Science Student (Beng)
 
+
 ## Quick Links
 
-- <i class="fa-brands fa-github-alt"></i> &nbsp; [GitHub](https://github.com/george-cliff)
-- <i class="fa-solid fa-book"></i> &nbsp; [Blog](./blog/)
-- <i class="fa-solid fa-laptop-code"></i> &nbsp; [Projects](./projects/)
+<i class="fa fa-github-alt"></i> fa-github-alt &nbsp; [GitHub](https://github.com/george-cliff)
+<i class="fa fa-file-text"></i> fa-file-text &nbsp; [Blog](./blog/)
+<i class="fa fa-laptop"></i> fa-laptop &nbsp; [Projects](./projects/)
 
