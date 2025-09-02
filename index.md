@@ -25,8 +25,22 @@ I am currently a Computer Science Student (Beng)
 
 ## Quick Links
 
-<ul style="list-style-type:none; padding-left:0;">
-  <li><i class="fa fa-github-alt"></i> <a href="https://github.com/george-cliff">GitHub</a></li>
-  <li><i class="fa fa-file-text"></i> <a href="./blog/">Blog</a></li>
-  <li><i class="fa fa-laptop"></i> <a href="./projects/">Projects</a></li>
-</ul>
+<table>
+  <tr>
+    <td><i class="fa fa-github-alt"></i></td>
+    <td><a href="https://github.com/george-cliff">GitHub</a></td>
+  </tr>
+  <tr>
+    <td><i class="fa fa-file-text"></i></td>
+    <td><a href="./blog/">Blog</a></td>
+  </tr>
+  <tr>
+    <td><i class="fa fa-laptop"></i></td>
+    <td><a href="./projects/">Projects</a></td>
+  </tr>
+</table>
+
+   
+ 
+  
+
