@@ -12,4 +12,10 @@ body, h1, h2, h3, h4, h5, h6, p, li, a {
 
 <img src="/assets/pp.png" alt="My photo" width="200" align="left" style="margin-right: 20px;"/>
 
-Test index for coding blog
+# Weclome
+
+## Quick Links
+
+-  [GitHub](https://github.com/george-cliff)
+-  [Blog](./blog/)
+-  [Projects](./projects/)
