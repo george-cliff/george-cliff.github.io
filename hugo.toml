@@ -17,3 +17,12 @@ weight = 1
 name = "Projects"
 url = "/projects/"
 weight = 2
+
+
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://mastodon.social/@gcliff"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/george-cliff-b94127187/"
