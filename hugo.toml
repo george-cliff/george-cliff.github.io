@@ -1,0 +1,19 @@
+baseURL = 'https://george-cliff.github.io/'
+languageCode = 'en-gb'
+title = 'George Cliff'
+theme = 'PaperMod'
+
+[params]
+description = "CS student building projects"
+ShowReadingTime = true
+ShowPostNavLinks = true
+
+[menu]
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 1
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 2
